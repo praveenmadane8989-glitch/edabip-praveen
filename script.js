@@ -14,9 +14,6 @@ const signupTab = document.getElementById("signupTab");
 const loginLink = document.getElementById("loginLink");
 
 
-/* =========================
-   PASSWORD SHOW / HIDE
-========================= */
 
 passwordToggle.addEventListener("click", function () {
 
@@ -35,9 +32,7 @@ passwordToggle.addEventListener("click", function () {
 });
 
 
-/* =========================
-   ENABLE CREATE ACCOUNT
-========================= */
+
 
 function checkForm() {
 
@@ -69,9 +64,6 @@ signupForm.addEventListener("input", checkForm);
 terms.addEventListener("change", checkForm);
 
 
-/* =========================
-   FORM SUBMISSION
-========================= */
 
 signupForm.addEventListener("submit", function (event) {
 
@@ -117,10 +109,6 @@ signupForm.addEventListener("submit", function (event) {
 });
 
 
-/* =========================
-   LOGIN TAB
-========================= */
-
 loginTab.addEventListener("click", function () {
 
     loginTab.classList.add("active");
@@ -131,9 +119,7 @@ loginTab.addEventListener("click", function () {
 });
 
 
-/* =========================
-   SIGNUP TAB
-========================= */
+
 
 signupTab.addEventListener("click", function () {
 
@@ -143,9 +129,7 @@ signupTab.addEventListener("click", function () {
 });
 
 
-/* =========================
-   LOGIN LINK
-========================= */
+
 
 loginLink.addEventListener("click", function (event) {
 
