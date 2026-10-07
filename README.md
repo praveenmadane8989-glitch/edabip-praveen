@@ -29,7 +29,8 @@ edabip-praveen/
 │
 ├── assets/
 │   ├── Bg.png
-│   └── logo.png
+│   ├── logo.png
+│   └── screenshot.png
 │
 ├── index.html
 ├── style.css
