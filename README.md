@@ -33,6 +33,8 @@ A responsive EDABIP Sign Up screen built using HTML, CSS, and JavaScript based o
 
 ![EDABIP Sign Up Screen](assets/screenshot.png)
 
+(assets/Screenshot 2026-10-09 163829.png)
+
 ## Difficulties
 
 The main challenge was matching the Figma design accurately, especially the layout, spacing, background image, signup card positioning, and responsive behavior across different screen sizes.
